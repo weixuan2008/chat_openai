@@ -1,0 +1,10 @@
+What is the Standard Template Library (STL) in C++ and explain the different components of STL.
+What is the difference between a class template and a function template in C++?
+Explain the concept of move semantics in C++11 and the use of "std::move" function.
+How do you implement a custom allocator for an STL container in C++?
+Explain the concept of RAII (Resource Acquisition Is Initialization) in C++ and its importance.
+What is the difference between "overriding" and "overloading" in C++? Can you give an example of each?
+Explain the use of smart pointers in C++ and compare the different types of smart pointers available in the language.
+Write a program to implement the Dijkstra's shortest path algorithm in C++.
+Explain the use of lambda functions in C++11 and provide an example.
+How can you write a multithreaded program in C++ and what are the different ways to synchronize threads?
