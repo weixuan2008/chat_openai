@@ -1,3 +1,3 @@
-# chat_openai
+# Some chat history with ChatGPT
 
-** This is chat history with ChatGPT
+
